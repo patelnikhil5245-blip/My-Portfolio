@@ -23,9 +23,9 @@ Here's a list of live versions of the template:
 
 | #     | Version             | Description                                             | URL                                                                     |
 |-------|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-| 🟢    | Mark Choi (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://ryanbalieiro.github.io/react-portfolio-template/)     |
-| 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://ryansandbox.github.io/emily-park-react-portfolio/)    |
-| 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://ryansandbox.github.io/michael-ozkan-react-portfolio/) |
+| 🟢    | Mark Choi (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://patelnikhil5245-blip.github.io/react-portfolio-template/)     |
+| 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://patelnikhil5245-blip.github.io/emily-park-react-portfolio/)    |
+| 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://patelnikhil5245-blip.github.io/michael-ozkan-react-portfolio/) |
 
 ## Layout and concept
 
@@ -46,17 +46,12 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 
 ## Getting Started
 
-1. Clone the repo:
-```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
-```
-
-2. Go to the project's root folder and use npm to install all required components:
+1. Go to the project's root folder and use npm to install all required components:
 ```
 npm install
 ```
 
-3. Launch the project in developer mode:
+2. Launch the project in developer mode:
 ```
 npm run dev
 ```
